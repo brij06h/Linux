@@ -18,4 +18,5 @@ ls → lists files and folders in the current directory
 cd → changes the directory
 
 // Moments 
+
 it tooks me 7 attempts to change directory 😅
