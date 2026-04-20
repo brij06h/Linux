@@ -15,7 +15,23 @@
 
 ---
 
-#command i understood better
+#commands i understood better
 
-```bash
-git clone git@github.com:brij06h/Linux.git
+1. to reload SSH key:
+   eval "$(ssh-agent -s)"
+   ssh-add ~/.ssh/id_ed25519
+
+2. to clone git repo:
+   git clone  git@github.com:brij06h/Linux.git
+
+3. to sync VM with Github:
+   git pull origin main
+   
+4. to stage the file (or everything):
+   git add day-02.md or git add .
+
+5. to commit he file:
+   git commit -m "day 2 : added learning notes"
+
+6. to push to Github:
+   git push origin main (if the branch is master use master.)
