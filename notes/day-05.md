@@ -1,4 +1,4 @@
-# Linux Journey – Day 5: Linux Fundamentals
+Linux Fundamentals
 
 Today I learned the basics of Linux, its history, and some important concepts.
 
